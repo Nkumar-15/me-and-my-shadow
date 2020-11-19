@@ -6,7 +6,7 @@ body{
     margin-bottom: 0px;
     text-align: center;
     font-family: 'Merriweather', serif;
-    display: inline-block;
+    
 
 
 }
@@ -48,6 +48,7 @@ h3{
     position: relative;
     
     padding-top: 150px;
+    display: inline-block;
 }
 
 .middlecontainer{
